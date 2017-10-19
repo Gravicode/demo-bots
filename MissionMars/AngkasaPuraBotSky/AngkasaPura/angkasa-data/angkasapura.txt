@@ -1,0 +1,20 @@
+angkasa pura api
+u: uapidummy
+p: Ymm4ipa
+
+app id: 3818df32-d645-43dc-95e4-d4eff56d1fe7
+pass : j0rRXaZNzqchTBox4sGgv6d
+
+1. perkaya fitur bot
+2. bikin mobile apps + direct line api
+3. presentasi
+
+flight:ok
+facilities : dine, taxi, hotel, Shop:ok
+Important Number:ok
+report: bug
+APTV : ok
+news : ok
+bagasi:ok
+
+report send to azure cosmosdb table:ok
