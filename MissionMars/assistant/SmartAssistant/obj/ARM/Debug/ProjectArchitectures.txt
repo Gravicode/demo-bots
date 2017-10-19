@@ -1,0 +1,1 @@
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\SmartAssistant.csproj;arm

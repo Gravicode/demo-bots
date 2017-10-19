@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServiceDefinition name="gravicodeservices" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition" schemaVersion="2015-04.2.6">
+  <WorkerRole name="IoTBroker" vmsize="Small">
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
+    </ConfigurationSettings>
+    <Endpoints>
+      <InputEndpoint name="mqtt_http" protocol="tcp" port="1883" />
+    </Endpoints>
+  </WorkerRole>
+</ServiceDefinition>

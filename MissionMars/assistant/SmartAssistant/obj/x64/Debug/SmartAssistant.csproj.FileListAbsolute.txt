@@ -1,0 +1,432 @@
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\App.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\MainPage.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Styles\Styles.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\SmartAssistant.xr.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\SmartAssistant.exe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\SmartAssistant.pdb
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\resources.pri
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\AppxManifest.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Core\AppxManifest.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Core\SmartAssistant.exe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\SmartAssistant.build.appxrecipe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\LinqToTwitter.uap10.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\M2Mqtt.WinRT.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\M2Mqtt.WinRT.pdb
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.CSharp.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Http.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Http.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Core.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Numerics.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Windows.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.Linq.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.Serialization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Common.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Face.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\Newtonsoft.Json.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reactive.Core.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reactive.Linq.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.AppContext.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Collections.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Collections.Immutable.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Collections.Specialized.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ComponentModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Data.Common.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Globalization.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.Compression.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\ClrCompression.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.FileSystem.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Linq.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Linq.Expressions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Linq.Parallel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Linq.Queryable.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Http.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Requests.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.Sockets.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ObjectModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Private.Networking.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Private.Uri.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Context.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Emit.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Handles.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Security.Claims.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Security.Principal.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Text.Encoding.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Threading.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Threading.Tasks.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Threading.Timer.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.XDocument.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\bin\x64\Debug\XamlAnimatedGif.dll
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\App.g.i.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\App.g.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\MainPage.g.i.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\MainPage.g.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\App.xaml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\MainPage.xaml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\Styles\Styles.xaml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\App.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\MainPage.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\Styles\Styles.xbf
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\XamlSaveStateFile.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\SmartAssistant.exe
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\SmartAssistant.pdb
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\ResourceHandlingTask.state
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\SmartAssistant.csproj.GenerateResource.Cache
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\priconfig.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\priconfig.xml.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\layout.resfiles
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\layout.resfiles.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\resources.resfiles
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\resources.resfiles.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\pri.resfiles
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\pri.resfiles.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\qualifiers.txt
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\qualifiers.txt.intermediate
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\M2Mqtt.WinRT.pri.xml
+C:\BDD\BDD Bogor\IoT\CognitiveServiceDemo\IoT.Makers.Demo\SmartDemo\SmartAssistant\obj\x64\Debug\ProjectArchitectures.txt
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\SmartAssistant.csprojResolveAssemblyReference.cache
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\App.g.i.cs
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\App.g.cs
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\MainPage.g.i.cs
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\MainPage.g.cs
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\App.xaml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\MainPage.xaml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\Styles\Styles.xaml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\App.xbf
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\MainPage.xbf
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\Styles\Styles.xbf
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\XamlSaveStateFile.xml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\SmartAssistant.exe
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\SmartAssistant.pdb
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\App.xbf
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\MainPage.xbf
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Styles\Styles.xbf
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\SmartAssistant.xr.xml
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\SmartAssistant.exe
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\SmartAssistant.pdb
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\resources.pri
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\AppxManifest.xml
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Core\AppxManifest.xml
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Core\SmartAssistant.exe
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\SmartAssistant.build.appxrecipe
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\LinqToTwitter.uap10.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\M2Mqtt.WinRT.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\M2Mqtt.WinRT.pdb
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.CSharp.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Http.Extensions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Http.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ComponentModel.DataAnnotations.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Core.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Numerics.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.Web.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Windows.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.Linq.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.Serialization.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Common.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Emotion.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Face.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.VisualBasic.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Microsoft.Win32.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\MyToolkit.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\MyToolkit.Extended.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\Newtonsoft.Json.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Private.DataContractSerialization.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reactive.Core.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reactive.Interfaces.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reactive.Linq.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reactive.PlatformServices.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.AppContext.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Collections.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Collections.Concurrent.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Collections.Immutable.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Collections.NonGeneric.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Collections.Specialized.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ComponentModel.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Data.Common.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Diagnostics.Contracts.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Diagnostics.Debug.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Diagnostics.StackTrace.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Diagnostics.Tools.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Diagnostics.Tracing.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Dynamic.Runtime.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Globalization.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Globalization.Calendars.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Globalization.Extensions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.Compression.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\ClrCompression.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.Compression.ZipFile.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.FileSystem.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.FileSystem.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.IsolatedStorage.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Linq.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Linq.Expressions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Linq.Parallel.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Linq.Queryable.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Http.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Http.Rtc.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.NetworkInformation.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Requests.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.Sockets.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Net.WebHeaderCollection.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ObjectModel.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Private.Networking.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Private.ServiceModel.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Private.Uri.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Context.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.DispatchProxy.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Emit.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Emit.Lightweight.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Extensions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Metadata.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Reflection.TypeExtensions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Resources.ResourceManager.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Extensions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Handles.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.InteropServices.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Numerics.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.Json.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.Serialization.Xml.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.WindowsRuntime.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Security.Claims.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Security.Principal.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.Duplex.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.Http.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.NetTcp.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.Primitives.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.ServiceModel.Security.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Text.Encoding.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Text.Encoding.Extensions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Text.RegularExpressions.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Threading.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Threading.Overlapped.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Threading.Tasks.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Threading.Tasks.Dataflow.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Threading.Tasks.Parallel.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Threading.Timer.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.ReaderWriter.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.XDocument.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.XmlDocument.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\System.Xml.XmlSerializer.dll
+C:\experiment\BDD.Palembang\SmartAssistant\bin\x64\Debug\XamlAnimatedGif.dll
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\ResourceHandlingTask.state
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.AppContext.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Data.Common.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.IO.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.IO.Compression.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Net.Http.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Net.Requests.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.ObjectModel.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Private.Networking.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Private.Uri.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Security.Claims.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\SmartAssistant.csproj.GenerateResource.Cache
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\priconfig.xml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\priconfig.xml.intermediate
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\layout.resfiles
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\layout.resfiles.intermediate
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\resources.resfiles
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\resources.resfiles.intermediate
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\pri.resfiles
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\pri.resfiles.intermediate
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\qualifiers.txt
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\qualifiers.txt.intermediate
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\M2Mqtt.WinRT.pri.xml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\MyToolkit.Extended.pri.xml
+C:\experiment\BDD.Palembang\SmartAssistant\obj\x64\Debug\ProjectArchitectures.txt

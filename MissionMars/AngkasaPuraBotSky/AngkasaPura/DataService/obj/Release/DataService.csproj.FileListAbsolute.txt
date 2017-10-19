@@ -1,0 +1,32 @@
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DocumentDB.Spatial.Sql.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DataService.exe.config
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DataService.exe
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DataService.pdb
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Microsoft.Azure.Documents.Client.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Newtonsoft.Json.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Common.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Interfaces.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Redis.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Text.dll
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Microsoft.Azure.Documents.Client.xml
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Newtonsoft.Json.xml
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Common.xml
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Interfaces.xml
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Redis.xml
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\ServiceStack.Text.xml
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\obj\Release\DataService.exe
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\obj\Release\DataService.pdb
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Microsoft.Azure.Documents.ServiceInterop.dll
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DocumentDB.Spatial.Sql.dll
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DataService.exe.config
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DataService.exe
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\DataService.pdb
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Microsoft.Azure.Documents.Client.dll
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Microsoft.Azure.Documents.Client.xml
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\bin\Release\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\obj\Release\DataService.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\obj\Release\DataService.exe
+\\vmware-host\Shared Folders\Documents\GitHub\AngkasaPuraBotSky\AngkasaPura\DataService\obj\Release\DataService.pdb
+C:\experiment\Github\AngkasaPuraBotSky\AngkasaPura\DataService\obj\Release\DataService.csprojResolveAssemblyReference.cache

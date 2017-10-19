@@ -1,0 +1,124 @@
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Bot Application1.dll.config
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Bot Application1.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Autofac.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Chronic.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Builder.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Connector.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.ProjectOxford.Vision.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Newtonsoft.Json.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.Net.Http.Formatting.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.WebHost.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Autofac.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Builder.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Connector.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\Newtonsoft.Json.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.Net.Http.Formatting.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.WebHost.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\obj\Release\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\IntelligenceBot\obj\Release\Bot Application1.pdb
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Bot Application1.dll.config
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Bot Application1.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Bot Application1.pdb
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Autofac.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Chronic.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Builder.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Connector.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.ProjectOxford.Vision.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Newtonsoft.Json.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.Net.Http.Formatting.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.WebHost.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Autofac.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Builder.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Bot.Connector.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\Newtonsoft.Json.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.Net.Http.Formatting.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\System.Web.Http.WebHost.xml
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\obj\Release\IntelligenceBot.csprojResolveAssemblyReference.cache
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\obj\Release\Bot Application1.dll
+E:\Experiment\AzureTechMeetup_BotFramework\Azure-Bot-Demo\IntelligenceBot\obj\Release\Bot Application1.pdb
+C:\Experiment\MissionMars\IntelligenceBot\bin\Bot Application1.dll.config
+C:\Experiment\MissionMars\IntelligenceBot\bin\Bot Application1.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Bot Application1.pdb
+C:\Experiment\MissionMars\IntelligenceBot\bin\Autofac.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Chronic.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Bot.Builder.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Bot.Connector.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.ProjectOxford.Vision.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Newtonsoft.Json.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.Net.Http.Formatting.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.Web.Http.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.Web.Http.WebHost.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Autofac.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Bot.Builder.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Bot.Connector.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\Newtonsoft.Json.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.Net.Http.Formatting.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.Web.Http.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\System.Web.Http.WebHost.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\obj\Release\IntelligenceBot.csprojResolveAssemblyReference.cache
+C:\Experiment\MissionMars\IntelligenceBot\obj\Release\Bot Application1.dll
+C:\Experiment\MissionMars\IntelligenceBot\obj\Release\Bot Application1.pdb
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Experiment\MissionMars\IntelligenceBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\IntelligenceBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll

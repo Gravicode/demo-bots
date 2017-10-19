@@ -1,0 +1,78 @@
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\obj\Debug\TokoBot.csprojResolveAssemblyReference.cache
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Bot Application1.dll.config
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Bot Application1.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Autofac.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Chronic.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.Bot.Builder.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.Bot.Connector.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Newtonsoft.Json.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.Net.Http.Formatting.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.Web.Http.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.Web.Http.WebHost.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Autofac.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.Bot.Builder.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.Bot.Connector.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.Rest.ClientRuntime.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\Newtonsoft.Json.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.Net.Http.Formatting.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.Web.Http.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\System.Web.Http.WebHost.xml
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\obj\Debug\Bot Application1.dll
+E:\Jobs\AzureTechMeetup\Presentasi\Demo\Azure-Bot-Demo\TokoBot\obj\Debug\Bot Application1.pdb
+C:\Experiment\MissionMars\TokoBot\bin\Bot Application1.dll.config
+C:\Experiment\MissionMars\TokoBot\bin\Bot Application1.dll
+C:\Experiment\MissionMars\TokoBot\bin\Bot Application1.pdb
+C:\Experiment\MissionMars\TokoBot\bin\Autofac.dll
+C:\Experiment\MissionMars\TokoBot\bin\Chronic.dll
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.Bot.Builder.dll
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.Bot.Connector.dll
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Experiment\MissionMars\TokoBot\bin\Newtonsoft.Json.dll
+C:\Experiment\MissionMars\TokoBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Experiment\MissionMars\TokoBot\bin\System.Net.Http.Formatting.dll
+C:\Experiment\MissionMars\TokoBot\bin\System.Web.Http.dll
+C:\Experiment\MissionMars\TokoBot\bin\System.Web.Http.WebHost.dll
+C:\Experiment\MissionMars\TokoBot\bin\Autofac.xml
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.Bot.Builder.xml
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.Bot.Connector.xml
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Experiment\MissionMars\TokoBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Experiment\MissionMars\TokoBot\bin\Newtonsoft.Json.xml
+C:\Experiment\MissionMars\TokoBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Experiment\MissionMars\TokoBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Experiment\MissionMars\TokoBot\bin\System.Net.Http.Formatting.xml
+C:\Experiment\MissionMars\TokoBot\bin\System.Web.Http.xml
+C:\Experiment\MissionMars\TokoBot\bin\System.Web.Http.WebHost.xml
+C:\Experiment\MissionMars\TokoBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Experiment\MissionMars\TokoBot\obj\Debug\TokoBot.csprojResolveAssemblyReference.cache
+C:\Experiment\MissionMars\TokoBot\obj\Debug\Bot Application1.dll
+C:\Experiment\MissionMars\TokoBot\obj\Debug\Bot Application1.pdb

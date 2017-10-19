@@ -1,0 +1,12 @@
+c:\experiment\AngkasaPura\DataService\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\experiment\AngkasaPura\DataService\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\experiment\AngkasaPura\DataService\bin\Debug\DataService.exe.config
+c:\experiment\AngkasaPura\DataService\bin\Debug\DataService.exe
+c:\experiment\AngkasaPura\DataService\bin\Debug\DataService.pdb
+c:\experiment\AngkasaPura\DataService\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\experiment\AngkasaPura\DataService\bin\Debug\Newtonsoft.Json.dll
+c:\experiment\AngkasaPura\DataService\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\experiment\AngkasaPura\DataService\bin\Debug\Newtonsoft.Json.xml
+c:\experiment\AngkasaPura\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+c:\experiment\AngkasaPura\DataService\obj\Debug\DataService.exe
+c:\experiment\AngkasaPura\DataService\obj\Debug\DataService.pdb
